@@ -1,8 +1,5 @@
 
-Elbette, aşağıda GitHub için hazırladığım GTİP Kodu Bulma Uygulaması README dosyasının kaynak kodunu bulabilirsiniz. Bu kodu, GitHub projenizin README.md dosyasına kopyalayıp yapıştırabilirsiniz:
 
-markdown
-Copy code
 # GTİP Kodu Bulma Uygulaması
 
 Bu proje, kullanıcıların çeşitli ürünler için GTİP (Gümrük Tarife İstatistik Pozisyonu) kodlarını bulmasına olanak tanıyan bir web uygulamasıdır. Uygulama, React.js ile geliştirilmiş bir frontend ve Node.js/Express ile oluşturulmuş bir backend'den oluşmaktadır.
@@ -26,20 +23,13 @@ Projeyi yerel makinenize klonlamak için aşağıdaki adımları izleyin:
 1. Git ile bu depoyu klonlayın:
 git clone https://github.com/alitolu/gtip-finder.git
 
-markdown
-Copy code
 2. Backend bağımlılıklarını yükleyin:
 cd gtip-finder
 npm install
 
-markdown
-Copy code
 3. Frontend bağımlılıklarını yükleyin:
 cd gtip-finder/frontend
 npm install
-
-markdown
-Copy code
 
 ### Çalıştırmak
 
@@ -49,14 +39,9 @@ Backend ve frontend sunucularını ayrı ayrı çalıştırın:
 cd gtip-finder
 npm start
 
-css
-Copy code
 2. Frontend için:
 cd gtip-finder/frontend
 npm start
-
-less
-Copy code
 
 Frontend `localhost:3000` adresinde ve backend `localhost:5000` adresinde çalışacak.
 
