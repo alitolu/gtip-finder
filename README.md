@@ -1,6 +1,7 @@
 
 
-# GTİP Kodu Bulma Uygulaması
+# AI GTİP (Gümrük Tarife İstatistik Pozisyonu) Kodu Bulma Uygulaması
+# Yapay Zeka ile GTİP (Gümrük Tarife İstatistik Pozisyonu) Kodu Bulma Uygulaması
 
 Bu proje, kullanıcıların çeşitli ürünler için GTİP (Gümrük Tarife İstatistik Pozisyonu) kodlarını bulmasına olanak tanıyan bir web uygulamasıdır. Uygulama, React.js ile geliştirilmiş bir frontend ve Node.js/Express ile oluşturulmuş bir backend'den oluşmaktadır.
 
